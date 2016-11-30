@@ -1,0 +1,1 @@
+RestaurantReview::Application.config.secret_key_base = '009269cdbb8df67b7a857d4d31ea080a3ceac29837f379be99e20a22cbd3263a3c69e6705e0553d9d0033d45b159a99943610f4e8c738b5e8dc204861cb94429'
